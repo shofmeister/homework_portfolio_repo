@@ -1,30 +1,58 @@
 
 	img {
-		border: 3px dotted black;
+		border: 1px solid black;
 		padding: 55px;
 		margin: 20px;
 		width: 100px;
 		float: right;
 	}
+
+	.top {
+		text-align: center;
+	}
+
+
 	p {
 		padding: 45px 0px;
 		font-family: sans-serif;
+	
 	}
 	h1 {
 		margin-bottom: 20px;
 		font-family: sans-serif;
+		text-align: center;
 	}
 
 	h2 {
 		font-family: sans-serif;
 	}
 
+	h3 {
+		font-family: sans-serif;
+	}
+
+
+	em {
+		font-weight: bold;
+	}
+
 	nav {
 		font-family: sans-serif;
+	}
+
+	body {
+		padding: 45px;
+	}
+
+	#relaxr img {
+		border: 1px solid black;
+		width: 600px;
+		float: left;
 	}
 
 	footer { 
 		clear:both;
 		font-family: sans-serif;
+		text-align: center;
 
 	 }
